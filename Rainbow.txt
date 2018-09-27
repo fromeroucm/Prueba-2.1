@@ -6,6 +6,6 @@ Yelow
 Green
 Blue
 Indigo
-Violet
+Purple
 
 These are the colors of the rainbow in the Sky
